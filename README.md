@@ -1,0 +1,1 @@
+# ecoindex-badge-plugin-wordpress
